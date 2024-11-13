@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dev-0S
+- 👋 Hi, I’m Ollie - @Dev-0S
 - 👀 I’m interested in Automation, Generative AI and Trading
 - 🌱 Currently learning TypeScript and React
 
