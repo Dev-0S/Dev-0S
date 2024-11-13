@@ -6,7 +6,8 @@
 - 👀 I’m interested in Automation, Generative AI and Trading
 - 🌱 Currently learning TypeScript and React
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-0s&show_icons=true&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-0s&show_icons=true&theme=tokyonight)
 
 
 
