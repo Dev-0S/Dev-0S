@@ -8,6 +8,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-0s&show_icons=true&theme=radical)
 
+<img src="https://media.giphy.com/media/YOUR_GIF_LINK/giphy.gif" width="100">
+
+
 
 <!---
 Dev-0S/Dev-0S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
