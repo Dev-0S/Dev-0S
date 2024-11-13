@@ -1,3 +1,7 @@
+# [View My Profile](https://github.com/Dev-0S)
+
+## [About Me](https://dev-0s.github.io/os/)
+
 - 👋 Hi, I’m Ollie - @Dev-0S
 - 👀 I’m interested in Automation, Generative AI and Trading
 - 🌱 Currently learning TypeScript and React
