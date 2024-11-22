@@ -1,6 +1,6 @@
 # [View My Profile](https://github.com/Dev-0S)
 
-## [About Me](https://dev-0s.github.io/os/index.html)
+## [About Me - Personal Site](https://dev-0s.github.io/os/index.html)
 
 - 👋 Hi, I’m Ollie - @Dev-0S
 - 👀 I’m interested in Automation, Generative AI and Trading
