@@ -9,7 +9,7 @@
 ## [My App](https://stealth-gallery.vercel.app/)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-0s&show_icons=true&theme=tokyonight&hide=prs)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-0s&show_icons=true&theme=tokyonight&hide=prs) --->
 
 
 <!---
