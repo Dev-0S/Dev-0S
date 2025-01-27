@@ -3,8 +3,9 @@
 ## [About Me - Personal Site](https://dev-0s.github.io/os/index.html)
 
 - 👋 Hi, I’m Ollie - @Dev-0S
-- 👀 I’m interested in Automation, Generative AI and Trading
+- 👀 I’m interested in Automation, Data Science, Engineering and Analytics, Generative AI and Trading.
 - 🌱 Currently learning TypeScript and React
+- 🐍 Favourite language: Python
 
 ## [My App](https://stealth-gallery.vercel.app/)
 
