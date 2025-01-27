@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Ollie - @Dev-0S
 - 👀 I’m interested in Automation, Data Science, Engineering and Analytics, Generative AI and Trading.
-- 🌱 Currently learning TypeScript and React
+- 🌱 Currently learning about Machine Learning
 - 🐍 Favourite language: Python
 
 ## [My App](https://stealth-gallery.vercel.app/)
