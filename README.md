@@ -7,8 +7,6 @@
 - 🌱 Currently learning about Machine Learning
 - 🐍 Favourite language: Python
 
-## [My App](https://stealth-gallery.vercel.app/)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Have+a+great+day!)](https://git.io/typing-svg)
 
 
