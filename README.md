@@ -3,8 +3,8 @@
 ## [About Me - Personal Site](https://dev-0s.github.io/os/index.html)
 
 - 👋 Hi, I’m Ollie - @Dev-0S
-- 👀 I’m interested in Automation, Data Science, Engineering and Analytics, Generative AI and Trading.
-- 🌱 Currently learning about Machine Learning
+- 👀 I’m interested in Automation, Trading, Crypto, Data Science, Engineering and Generative AI.
+- 🌱 Currently learning about Machine Learning, Derivatives and Trading.
 - 🐍 Favourite language: Python
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Have+a+great+day!)](https://git.io/typing-svg)
