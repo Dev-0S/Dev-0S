@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Ollie - @Dev-0S
 - 👀 I’m interested in Automation, Trading, Crypto, Data Science, Engineering and Generative AI.
-- 🌱 Currently learning about Machine Learning, Derivatives and Trading.
+- 🌱 Currently learning about Derivatives and Trading, Machine Learning.
 - 🐍 Favourite language: Python
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Have+a+great+day!)](https://git.io/typing-svg)
