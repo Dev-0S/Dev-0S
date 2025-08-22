@@ -4,8 +4,11 @@
 
 - 👋 Hi, I’m Ollie - @Dev-0S
 - 👀 I’m interested in Automation, Trading, Crypto, Data Science, Engineering and Generative AI.
-- 🌱 Currently learning about Derivatives and Trading, Machine Learning.
+- 🌱 Currently learning about Derivatives and Trading, Crtyptocurrency, and Machine Learning.
 - 🐍 Favourite language: Python
+
+## [ETH Staking Queue Monitor](https://dev-0s.github.io/os/ethqueue_vid.html)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile;Have+a+great+day!)](https://git.io/typing-svg)
 
